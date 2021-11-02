@@ -1,0 +1,1 @@
+2021-11-02 10:06:44,025 - [useDB.py: 71] -DEBUG: update test_batch set status = 4 where id = 21852 ;

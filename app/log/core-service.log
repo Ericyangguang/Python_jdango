@@ -1,0 +1,24 @@
+2021-11-02 10:06:44,032 - [process.py: 27] -INFO: 开始执行 id ： 21852      | 用例 ：填写|id@@kw@@你好,截图,点击|id@@su 
+2021-11-02 10:06:44,037 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-02 10:06:44,037 - [process.py: 48] -INFO: id is 21852, result is 3, stepname is init
+2021-11-02 10:12:45,263 - [process.py: 27] -INFO: 开始执行 id ： 21853      | 用例 ：填写|id@@kw@@你好,截图,点击|id@@su 
+2021-11-02 10:12:45,269 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-02 10:12:45,270 - [process.py: 48] -INFO: id is 21853, result is 3, stepname is init
+2021-11-02 10:13:03,339 - [process.py: 27] -INFO: 开始执行 id ： 21854      | 用例 ：填写|id@@kw@@你好,截图,点击|id@@su 
+2021-11-02 10:13:03,346 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-02 10:13:03,347 - [process.py: 48] -INFO: id is 21854, result is 3, stepname is init
+2021-11-02 10:13:09,388 - [process.py: 27] -INFO: 开始执行 id ： 21853      | 用例 ：填写|id@@kw@@你好,截图,点击|id@@su 
+2021-11-02 10:13:09,395 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-02 10:13:09,396 - [process.py: 48] -INFO: id is 21853, result is 3, stepname is init
+2021-11-02 11:14:13,830 - [process.py: 27] -INFO: 开始执行 id ： 21855      | 用例 ：填写|id@@kw@@你好,截图,点击|id@@su 
+2021-11-02 11:14:13,837 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-02 11:14:13,838 - [process.py: 48] -INFO: id is 21855, result is 3, stepname is init
+2021-11-02 11:15:14,093 - [process.py: 27] -INFO: 开始执行 id ： 21856      | 用例 ：填写|id@@kw@@你好,截图,点击|id@@su 
+2021-11-02 11:15:14,098 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-02 11:15:14,098 - [process.py: 48] -INFO: id is 21856, result is 3, stepname is init
+2021-11-02 11:21:58,063 - [process.py: 27] -INFO: 开始执行 id ： 21856      | 用例 ：填写|id@@kw@@你好,截图,点击|id@@su 
+2021-11-02 11:21:58,068 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-02 11:21:58,069 - [process.py: 48] -INFO: id is 21856, result is 3, stepname is init
+2021-11-02 11:22:16,171 - [process.py: 27] -INFO: 开始执行 id ： 21853      | 用例 ：填写|id@@kw@@你好,截图,点击|id@@su 
+2021-11-02 11:22:16,178 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-02 11:22:16,178 - [process.py: 48] -INFO: id is 21853, result is 3, stepname is init
