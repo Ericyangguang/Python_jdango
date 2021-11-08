@@ -22,3 +22,28 @@
 2021-11-02 11:22:16,171 - [process.py: 27] -INFO: 开始执行 id ： 21853      | 用例 ：填写|id@@kw@@你好,截图,点击|id@@su 
 2021-11-02 11:22:16,178 - [process.py: 61] -INFO: cannot run without available hubs!
 2021-11-02 11:22:16,178 - [process.py: 48] -INFO: id is 21853, result is 3, stepname is init
+2021-11-08 16:29:23,346 - [process.py: 27] -INFO: 开始执行 id ： 21859      | 用例 ：Chrome,前往|http://www.baidu.com,截图 
+2021-11-08 16:29:23,347 - [process.py: 27] -INFO: 开始执行 id ： 21857      | 用例 ：填写|id@@kw@@你好,截图,点击|id@@su 
+2021-11-08 16:29:23,348 - [process.py: 27] -INFO: 开始执行 id ： 21858      | 用例 ：Chrome,前往|http://www.baidu.com,截图 
+2021-11-08 16:29:23,348 - [process.py: 27] -INFO: 开始执行 id ： 21858      | 用例 ：Chrome,前往|http://www.baidu.com,截图 
+2021-11-08 16:29:23,348 - [process.py: 27] -INFO: 开始执行 id ： 21860      | 用例 ：Chrome,前往|http://www.baidu.com,截图 
+2021-11-08 16:29:23,348 - [process.py: 27] -INFO: 开始执行 id ： 21858      | 用例 ：Chrome,前往|http://www.baidu.com,截图 
+2021-11-08 16:29:23,348 - [process.py: 27] -INFO: 开始执行 id ： 21860      | 用例 ：Chrome,前往|http://www.baidu.com,截图 
+2021-11-08 16:29:23,348 - [process.py: 27] -INFO: 开始执行 id ： 21858      | 用例 ：Chrome,前往|http://www.baidu.com,截图 
+2021-11-08 16:29:23,348 - [process.py: 27] -INFO: 开始执行 id ： 21860      | 用例 ：Chrome,前往|http://www.baidu.com,截图 
+2021-11-08 16:29:23,358 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-08 16:29:23,358 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-08 16:29:23,361 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-08 16:29:23,361 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-08 16:29:23,361 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-08 16:29:23,363 - [process.py: 48] -INFO: id is 21860, result is 3, stepname is init
+2021-11-08 16:29:23,364 - [process.py: 48] -INFO: id is 21858, result is 3, stepname is init
+2021-11-08 16:29:47,503 - [process.py: 27] -INFO: 开始执行 id ： 21859      | 用例 ：Chrome,前往|http://www.baidu.com,截图 
+2021-11-08 16:29:47,509 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-08 16:29:47,509 - [process.py: 48] -INFO: id is 21859, result is 3, stepname is init
+2021-11-08 16:43:27,039 - [process.py: 27] -INFO: 开始执行 id ： 21859      | 用例 ：Chrome,前往|http://www.baidu.com,截图 
+2021-11-08 16:43:27,046 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-08 16:43:27,047 - [process.py: 48] -INFO: id is 21859, result is 3, stepname is init
+2021-11-08 19:02:37,383 - [process.py: 27] -INFO: 开始执行 id ： 21852      | 用例 ：填写|id@@kw@@你好,截图,点击|id@@su 
+2021-11-08 19:02:37,389 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-08 19:02:37,389 - [process.py: 48] -INFO: id is 21852, result is 3, stepname is init

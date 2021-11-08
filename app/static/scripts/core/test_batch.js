@@ -134,16 +134,18 @@ var TableInit = function (test_suite_id) {
             },
              {
                 field: 'screenshot',
-                title: '截图',
+                title: '操作',
                 align: 'center',
                 formatter: function (value, row, index) {
                         var a = '<a href="javascript:;" onclick="run_test_batch_record(\''+row.id+'\',\''+row.test_case_id+ '\')">重跑</a> ';
-                        var b = '<a href="javascript:;" onclick="window.open(\'/view_test_suite_screenshot?type=test_suite&id='+ row.id +'&test_batch_id='+test_suite_id+ '\')">截图</a> ';
-                        return a+b ;
+                        var b = '<a href="javascript:;" onclick="run_test_batch_record(\''+row.id+'\',\''+row.test_case_id+ '\')>删除</a> ';
+                        var c = '<a href="javascript:;" onclick="run_test_batch_record(\''+row.id+'\',\''+row.test_case_id+ '\')>停止</a> ';
+                        var d = '<a href="javascript:;" onclick="window.open(\'/view_test_suite_screenshot?type=test_suite&id='+ row.id +'&test_batch_id='+test_suite_id+ '\')">截图</a> ';
+                        return a+b+c+d ;
                         }
             }, {
                 field: 'message',
-                title: '描述'
+                title: '类型'
             }
                 ]
         });

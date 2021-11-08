@@ -1,1 +1,4 @@
 2021-11-02 10:06:44,025 - [useDB.py: 71] -DEBUG: update test_batch set status = 4 where id = 21852 ;
+2021-11-08 16:29:23,361 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-08 16:29:23,361 - [process.py: 61] -INFO: cannot run without available hubs!
+2021-11-08 16:29:23,364 - [process.py: 48] -INFO: id is 21858, result is 3, stepname is init
